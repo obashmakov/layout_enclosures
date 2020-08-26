@@ -5,7 +5,6 @@
 body {
   background-color: #000;
   margin: 0;
-  padding: 0;
 }
 
 .third_bord {
@@ -27,7 +26,7 @@ body {
   padding: 0;
 }
 
-div {
+.all_boxes {
   border: 1px rgb(231,85,81) solid;
   padding: 10px;
 }
